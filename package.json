@@ -1,0 +1,11 @@
+{
+  "name": "r2c-proxy",
+  "version": "1.0.0",
+  "description": "OpenAI Responses API & Anthropic Messages API to Chat Completions API proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["openai", "anthropic", "proxy", "responses-api", "chat-completions"],
+  "license": "MIT"
+}

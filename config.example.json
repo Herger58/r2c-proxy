@@ -1,0 +1,8 @@
+{
+  "port": 8788,
+  "base_url": "https://your-api-endpoint/v1",
+  "anthropic_base_url": "https://your-api-endpoint/anthropic",
+  "api_key": "your-api-key",
+  "default_model": "your-model",
+  "multimodal_model": "your-multimodal-model"
+}
