@@ -18,12 +18,11 @@
 - Node.js >= 18
 - 支持 Windows、macOS、Linux
 
-### 安装
+### 下载
 
 ```bash
-git clone https://github.com/yourusername/r2c-proxy.git
+git clone https://github.com/Herger58/r2c-proxy.git
 cd r2c-proxy
-npm install
 ```
 
 ### 配置
